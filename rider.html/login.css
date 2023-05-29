@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.login{
+    height: 1000px;
+    width: 2000px;
+    background-color: black;
+    color: aliceblue;
+}
+.Username{
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    font-size: 30px;
+}
+.password{
+    margin-top: 10px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    font-size: 30px;
+}
+.button{
+    margin-left: 200px;
+    height: 30px;
+    width: 80px;
+    border: 2px solid red;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    background-color: gray;
+}
+.location{
+    background-color: gray;
+    border: 2px solid red;
+    height: 50px;
+    width: 250px;
+    color: black;
+    margin-top: 100px;
+    margin-left: 600px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.location:hover{
+    background-color: aliceblue;
+    color: black;
+    border: 2px solid gray;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}

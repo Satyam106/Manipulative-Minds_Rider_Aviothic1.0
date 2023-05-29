@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.signup{
+    height: 1000px;
+    width: 2000px;
+    background-color: black;
+    color: aliceblue;
+}
+.name{
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    font-size: 30px;
+}

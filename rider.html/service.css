@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.service{
+    background-color: black;
+    height: 150%;
+    width: 100%;
+    color: aliceblue;
+
+}
+.mar{
+    color: black;
+    background-color: gray;
+    padding-left: 80px;
+    font-style: italic;
+    font-size: 30px;
+    border: 2px solid black;
+    opacity: 30px;
+    position: relative;
+}
+.ts{
+    color: aliceblue;
+    font-style: italic;
+    margin-left: 20px;
+    font-size: 25px;
+    padding-top: 30px;
+}
+.img{
+    border: 2px solid red;
+    height: 500px;
+    width: 500px;
+    margin-left:1000px ;
+    margin-bottom: 200px;
+}
+.last{
+    border: 2px solid red;
+    background-color: gray;
+    color: black;
+    height: 80px;
+    width: auto;
+}
